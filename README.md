@@ -1,2 +1,2 @@
 # controleemprestimos
-Controle de empréstimo de revistas, utilizando arraylist. 
+Projeto de faculdade: controle de empréstimo de revistas em quadrinhos, utilizando arraylist e sem persistência de dados.
